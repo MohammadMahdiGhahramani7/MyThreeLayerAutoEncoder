@@ -5,3 +5,6 @@ one-hot-vectors and want the autoencoder to encode these vectors as binary numbe
 an example with autoencoder with three layers. The code can be used for any number of hidden layers.
 
 ![Screenshot](Explanation.png)
+
+![Screenshot](Ex.png)
+
